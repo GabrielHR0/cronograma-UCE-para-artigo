@@ -1,14 +1,14 @@
 # Planejamento da Disciplina
 
-A disciplina foi organizada em encontros semanais de 50 minutos, distribuídos ao longo do semestre letivo. O planejamento adotou uma abordagem progressiva, iniciando pela contextualização da área de computação e pela apresentação das possibilidades de atuação profissional, com destaque para a importância da formação prática e do desenvolvimento de competências voltadas ao mercado de trabalho.
+A disciplina será organizada em encontros semanais de 50 minutos, distribuídos ao longo do semestre letivo. O planejamento adotará uma abordagem progressiva, iniciando pela contextualização da área de computação e pela apresentação das possibilidades de atuação profissional, com destaque para a importância da formação prática e do desenvolvimento de competências voltadas ao mercado de trabalho.
 
-Em seguida, foram abordados conceitos introdutórios relacionados ao desenvolvimento de software e ao funcionamento da internet, incluindo aspectos fundamentais das aplicações web, da comunicação entre clientes e servidores e das ferramentas utilizadas durante o processo de desenvolvimento.
+Em seguida, serão abordados conceitos introdutórios relacionados ao desenvolvimento de software e ao funcionamento da internet, incluindo aspectos fundamentais das aplicações web, da comunicação entre clientes e servidores e das ferramentas que serão utilizadas durante o processo de desenvolvimento.
 
-Na sequência, os estudantes tiveram contato com práticas de controle de versão e colaboração em projetos de software, compreendendo a importância do versionamento e do trabalho em equipe no contexto do desenvolvimento moderno.
+Na sequência, os estudantes terão contato com práticas de controle de versão e colaboração em projetos de software, compreendendo a importância do versionamento e do trabalho em equipe no contexto do desenvolvimento moderno.
 
-Posteriormente, foram apresentados conceitos básicos de bancos de dados, contemplando armazenamento, modelagem e manipulação de informações, bem como sua integração com aplicações. Por fim, foram discutidas boas práticas de desenvolvimento, organização de interfaces, testes e correção de erros, consolidando os conteúdos trabalhados ao longo da disciplina.
+Posteriormente, serão apresentados conceitos básicos de bancos de dados, contemplando armazenamento, modelagem e manipulação de informações, bem como sua integração com aplicações. Por fim, serão discutidas boas práticas de desenvolvimento, organização de interfaces, testes e correção de erros, consolidando os conteúdos que serão trabalhados ao longo da disciplina.
 
-O último encontro foi destinado à revisão dos temas abordados e à realização de uma avaliação qualitativa da disciplina, permitindo a coleta de feedback dos estudantes e o incentivo à continuidade da participação nas atividades formativas dos períodos seguintes.
+O último encontro será destinado à revisão dos temas e à realização de uma avaliação qualitativa da disciplina, permitindo a coleta de feedback dos estudantes e o incentivo à continuidade da participação nas atividades formativas dos períodos seguintes.
 
 ## Estrutura dos Conteúdos
 
@@ -68,7 +68,7 @@ O último encontro foi destinado à revisão dos temas abordados e à realizaç�
 | 15 | 10/06 | Interfaces para Usuários | Estrutura e navegação de interfaces |
 | 16 | 17/06 | Boas Práticas de Desenvolvimento | Organização, legibilidade e documentação |
 | 17 | 24/06 | Testes e Correção de Erros | Validação e correção de funcionalidades |
-| 18 | 01/07 | Revisão dos Conteúdos | Revisão geral dos tópicos abordados |
+| 18 | 01/07 | Revisão dos Conteúdos | Revisão geral dos tópicos que serão abordados |
 | 19 | 10/07 | Avaliação e Encerramento | Feedback dos estudantes e incentivo à continuidade do ciclo formativo |
 
 ---
