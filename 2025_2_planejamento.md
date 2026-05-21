@@ -46,6 +46,17 @@ O processo priorizará a aplicação prática dos conhecimentos, a interação c
 
 ---
 
+## Critérios de Avaliação — 2025.2
+
+| Pontuação | Critério |
+|-----------|----------|
+| 7,0 (mínimo de aprovação) | Entrega parcial com interface funcional e back-end básico implementado |
+| 10,0 (pontuação máxima) | Sistema finalizado e validado, pronto para entrega ao cliente |
+
+A entrega final consistiu em apresentação presencial das equipes demonstrando o processo de desenvolvimento, o estado do sistema e o relato da experiência com o cliente. A entrega do sistema ao cliente ocorreu posteriormente, sob supervisão da empresa júnior, após validação do código produzido pelos estudantes.
+
+---
+
 ## Linha do Tempo das Atividades
 
 | Agosto | Setembro | Outubro | Novembro | Dezembro |
@@ -63,13 +74,27 @@ O processo priorizará a aplicação prática dos conhecimentos, a interação c
 |---------|---------|
 | Planejamento Inicial | Apresentar a proposta da disciplina, formar equipes e distribuir os projetos institucionais. |
 | Comunicação com as Empresas | Estabelecer canais permanentes de comunicação entre as equipes e as empresas participantes. |
-| Levantamento de Requisitos | Identificar necessidades, objetivos e funcionalidades esperadas pelos clientes por meio de reuniões e interações diretas. |
+| Levantamento de Requisitos | Identificar necessidades, objetivos e funcionalidades esperadas pelos clientes por meio de reuniões e interações diretas |
 | Planejamento Tecnológico | Definir tecnologias, ferramentas e arquitetura da solução a ser desenvolvida. |
 | Design e Prototipação | Estruturar a identidade visual e elaborar protótipos para validação junto às empresas. |
 | Desenvolvimento | Implementar as funcionalidades planejadas e realizar adequações solicitadas pelos clientes. |
 | Apresentação dos Resultados | Demonstrar a evolução dos projetos e compartilhar os resultados obtidos ao longo do semestre. |
 
----
+
+## Levantamento de Requisitos dos Projetos (detalhe)
+
+Não foi adotado um modelo padronizado de documento de requisitos. Cada equipe, liderada pelo seu Líder, foi responsável por estruturar o documento conforme seu entendimento, tendo como referência os objetivos identificados nas reuniões com o cliente: o que o cliente queria, como, quando, com qual finalidade e exemplos de referência. Os documentos produzidos foram revisados e corrigidos pela coordenação, o que revelou bom desempenho das equipes nessa etapa.
+
+Essa escolha foi intencional: buscou-se avaliar a capacidade dos estudantes de organizar informações sem um template prescrito, simulando a autonomia exigida no mercado.
+
+## Reuniões com Clientes dos Projetos
+
+As reuniões foram conduzidas pelo Líder de cada equipe, sem roteiro padronizado. O foco era compreender: o que o cliente desejava, como imaginava a solução, quando precisava, qual a finalidade do sistema e quais referências visuais ou funcionais poderiam orientar o desenvolvimento.
+
+Reuniões ocorreram nas seguintes etapas:
+- Levantamento inicial de requisitos
+- Validação do design e protótipos
+- Demonstração de versões parciais do sistema
 
 ## Organização das Equipes
 
@@ -96,6 +121,10 @@ O processo priorizará a aplicação prática dos conhecimentos, a interação c
 
 ---
 
+## Formato da Entrega Final
+
+A entrega consistiu em apresentação presencial de cada equipe, contemplando: relato do processo de desenvolvimento, demonstração do sistema em funcionamento (via link público) e compartilhamento da experiência com o cliente. Não houve template de relatório escrito. A entrega formal do sistema ao cliente ocorreu após o encerramento da disciplina, com acompanhamento da empresa júnior.
+
 ## Observações
 
 - Os encontros presenciais ocorrerão entre agosto e setembro, concentrando-se na apresentação da proposta da disciplina, formação das equipes e orientação metodológica para execução dos projetos.
@@ -103,3 +132,5 @@ O processo priorizará a aplicação prática dos conhecimentos, a interação c
 - As equipes manterão comunicação direta e frequente com as empresas participantes durante todo o desenvolvimento dos projetos.
 - O levantamento de requisitos, a validação das propostas tecnológicas, a avaliação dos protótipos e os refinamentos realizados durante a implementação ocorrerão em colaboração com os representantes das organizações atendidas.
 - O encerramento da disciplina ocorrerá em 01/12, com a apresentação do estado atual dos projetos, entrega de certificados aos participantes e um momento de confraternização entre os envolvidos.
+
+ 
