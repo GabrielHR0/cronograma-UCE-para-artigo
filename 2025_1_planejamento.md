@@ -110,7 +110,7 @@ Esses recursos serão indicados ao longo das aulas e utilizados como base para a
 | | | Operações Básicas com Git | | | |
 
 
-## Projeto Final — Aplicação de Envio de E-mails (síntese)
+## Projeto Final — Aplicação de Envio de E-mails
 
 Continuação e especificação prática das Aulas 16–17. Desenvolver uma aplicação web simples para envio de e-mails com as tecnologias vistas em aula (HTML/CSS, PHP, MySQL, XAMPP). Entregáveis mínimos: `index.php`, `send.php`, script SQL para a tabela `envios`, `admin.php` e `README.md` com instruções. Critérios principais: funcionamento do envio/registro, qualidade do código, documentação e histórico de commits. Se envio SMTP não for possível em local, aceitar registro com `status_envio='teste'` e documentação justificando a limitação.
 

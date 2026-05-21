@@ -1,6 +1,6 @@
 # Avaliação de Impacto da UCE: Desenvolvimento de Software e Prática Extensionista
 
-> Você está sendo convidado(a) a participar voluntariamente desta pesquisa acadêmica conduzida no âmbito da Universidade do Estado do Rio Grande do Norte (UERN), cujo objetivo é analisar os impactos pedagógicos, técnicos e sociais da Unidade Curricular de Extensão (UCE) da empresa júnior parceira, vivenciada por você.
+> Você está sendo convidado(a) a participar voluntariamente desta pesquisa acadêmica conduzida no âmbito da instituição de ensino, cujo objetivo é analisar os impactos pedagógicos, técnicos e sociais da Unidade Curricular de Extensão (UCE) da empresa júnior, vivenciada por você.
 
 **Proteção de Dados e Anonimato**
 
@@ -12,81 +12,81 @@ Em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018) e c
 
 ## Consentimento
 
-- [ ] **Declaro que li as informações apresentadas e concordo em participar da pesquisa.**
+- ○ **Declaro que li as informações apresentadas e concordo em participar da pesquisa.**
 
 **Opções:**
-- ( ) Concordo
-- ( ) Não concordo
+- ○ Concordo
+- ○ Não concordo
 
 ---
 
 ## Perfil e Contexto
 
 **Gênero:**
-- [ ] Feminino
-- [ ] Masculino
-- [ ] Prefiro não dizer
-- [ ] Outro: __________
+- ○ Feminino
+- ○ Masculino
+- ○ Prefiro não dizer
+- ○ Outro: __________
 
 **Cor / Raça:**
-- [ ] Branca
-- [ ] Preta
-- [ ] Parda
-- [ ] Amarela
-- [ ] Indígena
-- [ ] Prefiro não dizer
+- ○ Branca
+- ○ Preta
+- ○ Parda
+- ○ Amarela
+- ○ Indígena
+- ○ Prefiro não dizer
 
 **Modalidade de ingresso na Universidade:**
-- [ ] Ampla Concorrência (Não cotista)
-- [ ] Cota Social
-- [ ] Cota PPI (Pretos, Pardos e Indígenas)
-- [ ] Cota EEP (Escolas Públicas)
-- [ ] Cota PcD (Pessoas com Deficiência)
+- ○ Ampla Concorrência (Não cotista)
+- ○ Cota Social
+- ○ Cota PPI (Pretos, Pardos e Indígenas)
+- ○ Cota EEP (Escolas Públicas)
+- ○ Cota PcD (Pessoas com Deficiência)
 
 **Período da graduação na UCE:**
-- [ ] 4º Período
-- [ ] 6º Período
+- ○ 4º Período
+- ○ 6º Período
 
 **Você exerce atividade remunerada na área de TI?**
-- [ ] Sim, na área de desenvolvimento/design.
-- [ ] Sim, mas fora da área de TI.
-- [ ] Não, dedico-me apenas aos estudos.
+- ○ Sim, na área de desenvolvimento/design.
+- ○ Sim, mas fora da área de TI.
+- ○ Não, dedico-me apenas aos estudos.
 
 **Papel predominante na equipe:**
-- [ ] Líder
-- [ ] Designer
-- [ ] Desenvolvedor Front-end
-- [ ] Desenvolvedor Back-end
+- ○ Líder
+- ○ Designer
+- ○ Desenvolvedor Front-end
+- ○ Desenvolvedor Back-end
 
 **Antes desta UCE, você já havia atuado no desenvolvimento de um projeto completo?**
-- [ ] Sim
-- [ ] Não
+- ○ Sim
+- ○ Não
 
 **Antes desta UCE, você já havia desenvolvido um projeto completo para um cliente real?**
-- [ ] Sim
-- [ ] Não
+- ○ Sim
+- ○ Não
 
 **Metodologia ágil utilizada pela equipe (marque a que se aplicar):**
-- [ ] Scrum
-- [ ] Kanban
-- [ ] Não utilizamos metodologia ágil específica
-- [ ] Não sei informar
-- [ ] Outro: __________
+- ○ Scrum
+- ○ Kanban
+- ○ Não utilizamos metodologia ágil específica
+- ○ Não sei informar
+- ○ Outro: __________
 
 **Com que frequência trabalhou no projeto fora do horário de aula?**
-- [ ] Diariamente
-- [ ] 3–4 vezes por semana
-- [ ] 1–2 vezes por semana
-- [ ] Apenas aos finais de semana
-- [ ] Raramente (apenas quando necessário)
-- [ ] Não trabalhei fora do horário de aula
+- ○ Diariamente
+- ○ 3–4 vezes por semana
+- ○ 1–2 vezes por semana
+- ○ Apenas aos finais de semana
+- ○ Raramente (apenas quando necessário)
+- ○ Não trabalhei fora do horário de aula
 
 **Após a UCE, você pretende trabalhar em uma empresa júnior / startup / outra empresa?**
-- [ ] Sim, já me candidatei ou pretendo me candidatar
-- [ ] Sim, tenho interesse mas ainda não tomei ação
-- [ ] Talvez, preciso avaliar melhor
-- [ ] Não tenho interesse
-- [ ] Já atuo em uma empresa
+- ○ Sim, já me candidatei ou pretendo me candidatar
+- ○ Sim, tenho interesse mas ainda não tomei ação
+- ○ Talvez, preciso avaliar melhor
+- ○ Não tenho interesse
+- ○ Já atuo em uma empresa
 
 ---
 
@@ -107,25 +107,25 @@ Em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018) e c
 
 | Item | Antes da UCE | Depois da UCE |
 |------|:------------:|:-------------:|
-| Capacidade | 1 ☐  2 ☐  3 ☐  4 ☐  5 ☐ | 1 ☐  2 ☐  3 ☐  4 ☐  5 ☐ |
+| Capacidade | 1 ○  2 ○  3 ○  4 ○  5 ○ | 1 ○  2 ○  3 ○  4 ○  5 ○ |
 
 ### Entendimento do ciclo completo de desenvolvimento (requisitos → deploy)
 
 | Item | Antes da UCE | Depois da UCE |
 |------|:------------:|:-------------:|
-| Entendimento | 1 ☐  2 ☐  3 ☐  4 ☐  5 ☐ | 1 ☐  2 ☐  3 ☐  4 ☐  5 ☐ |
+| Entendimento | 1 ○  2 ○  3 ○  4 ○  5 ○ | 1 ○  2 ○  3 ○  4 ○  5 ○ |
 
 ### Habilidade técnica relacionada ao meu papel (liderança, código ou design)
 
 | Item | Antes da UCE | Depois da UCE |
 |------|:------------:|:-------------:|
-| Habilidade técnica | 1 ☐  2 ☐  3 ☐  4 ☐  5 ☐ | 1 ☐  2 ☐  3 ☐  4 ☐  5 ☐ |
+| Habilidade técnica | 1 ○  2 ○  3 ○  4 ○  5 ○ | 1 ○  2 ○  3 ○  4 ○  5 ○ |
 
 ### Capacidade de comunicar decisões técnicas para leigos
 
 | Item | Antes da UCE | Depois da UCE |
 |------|:------------:|:-------------:|
-| Comunicação | 1 ☐  2 ☐  3 ☐  4 ☐  5 ☐ | 1 ☐  2 ☐  3 ☐  4 ☐  5 ☐ |
+| Comunicação | 1 ○  2 ○  3 ○  4 ○  5 ○ | 1 ○  2 ○  3 ○  4 ○  5 ○ |
 
 ---
 
@@ -137,25 +137,25 @@ Em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018) e c
 
 | 1 | 2 | 3 | 4 | 5 |
 |:-:|:-:|:-:|:-:|:-:|
-| ☐ | ☐ | ☐ | ☐ | ☐ |
+| ○ | ○ | ○ | ○ | ○ |
 
 **O uso de ferramentas de IA (ChatGPT, Copilot, etc.) foi incentivado e útil.**
 
 | 1 | 2 | 3 | 4 | 5 |
 |:-:|:-:|:-:|:-:|:-:|
-| ☐ | ☐ | ☐ | ☐ | ☐ |
+| ○ | ○ | ○ | ○ | ○ |
 
 **Houve boa integração entre Design e Desenvolvimento.**
 
 | 1 | 2 | 3 | 4 | 5 |
 |:-:|:-:|:-:|:-:|:-:|
-| ☐ | ☐ | ☐ | ☐ | ☐ |
+| ○ | ○ | ○ | ○ | ○ |
 
-**O ambiente de "Empresa Júnior" aumentou minha responsabilidade comparado a uma disciplina tradicional.**
+**O ambiente de empresa júnior aumentou minha responsabilidade comparado a uma disciplina tradicional.**
 
 | 1 | 2 | 3 | 4 | 5 |
 |:-:|:-:|:-:|:-:|:-:|
-| ☐ | ☐ | ☐ | ☐ | ☐ |
+| ○ | ○ | ○ | ○ | ○ |
 
 ---
 
@@ -179,7 +179,7 @@ Em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018) e c
 
 | 1 | 2 | 3 | 4 | 5 |
 |:-:|:-:|:-:|:-:|:-:|
-| ☐ | ☐ | ☐ | ☐ | ☐ |
+| ○ | ○ | ○ | ○ | ○ |
 
 **Quando surgiram problemas, a equipe foi capaz de resolver de forma autônoma.**
 

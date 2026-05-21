@@ -53,7 +53,7 @@ O processo priorizará a aplicação prática dos conhecimentos, a interação c
 | 7,0 (mínimo de aprovação) | Entrega parcial com interface funcional e back-end básico implementado |
 | 10,0 (pontuação máxima) | Sistema finalizado e validado, pronto para entrega ao cliente |
 
-A entrega final consistiu em apresentação presencial das equipes demonstrando o processo de desenvolvimento, o estado do sistema e o relato da experiência com o cliente. A entrega do sistema ao cliente ocorreu posteriormente, sob supervisão da empresa júnior, após validação do código produzido pelos estudantes.
+A entrega final consistiu em apresentação presencial das equipes demonstrando o processo de desenvolvimento, o estado do sistema e o relato da experiência com o cliente. A entrega do sistema ao cliente ocorreu posteriormente, sob supervisão da [empresa júnior], após validação do código produzido pelos estudantes.
 
 ---
 
@@ -123,7 +123,7 @@ Reuniões ocorreram nas seguintes etapas:
 
 ## Formato da Entrega Final
 
-A entrega consistiu em apresentação presencial de cada equipe, contemplando: relato do processo de desenvolvimento, demonstração do sistema em funcionamento (via link público) e compartilhamento da experiência com o cliente. Não houve template de relatório escrito. A entrega formal do sistema ao cliente ocorreu após o encerramento da disciplina, com acompanhamento da empresa júnior.
+A entrega consistiu em apresentação presencial de cada equipe, contemplando: relato do processo de desenvolvimento, demonstração do sistema em funcionamento (via link público) e compartilhamento da experiência com o cliente. Não houve template de relatório escrito. A entrega formal do sistema ao cliente ocorreu após o encerramento da disciplina, com acompanhamento da [empresa júnior].
 
 ## Observações
 
