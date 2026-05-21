@@ -2,24 +2,26 @@
 
 A disciplina será organizada em encontros semanais de 50 minutos, distribuídos ao longo do semestre letivo. O planejamento adotará uma abordagem progressiva, iniciando pela contextualização da área de computação e pela apresentação das possibilidades de atuação profissional, com destaque para a importância da formação prática e do desenvolvimento de competências voltadas ao mercado de trabalho.
 
-Em seguida, serão abordados conceitos introdutórios relacionados ao desenvolvimento de software e ao funcionamento da internet, incluindo aspectos fundamentais das aplicações web, da comunicação entre clientes e servidores e das ferramentas que serão utilizadas durante o processo de desenvolvimento.
+Na sequência, serão abordados conceitos introdutórios relacionados ao desenvolvimento de software e ao funcionamento da internet, incluindo aspectos fundamentais das aplicações web, da comunicação entre clientes e servidores e das ferramentas utilizadas durante o processo de desenvolvimento. As atividades práticas utilizarão HTML e CSS para construção de interfaces, PHP para implementação de funcionalidades do lado do servidor e XAMPP para configuração do ambiente local de execução das aplicações.
 
-Na sequência, os estudantes terão contato com práticas de controle de versão e colaboração em projetos de software, compreendendo a importância do versionamento e do trabalho em equipe no contexto do desenvolvimento moderno.
+Os encontros serão conduzidos de forma expositiva e demonstrativa, com compartilhamento da tela do ministrante durante o desenvolvimento das atividades. Os exemplos serão construídos em tempo real, permitindo que os estudantes acompanhem o processo de implementação e posteriormente reproduzam os procedimentos de forma autônoma. Ao longo do semestre, serão propostos exercícios práticos para fixação dos conteúdos e incentivo à experimentação das tecnologias apresentadas em aula.
 
-Posteriormente, serão apresentados conceitos básicos de bancos de dados, contemplando armazenamento, modelagem e manipulação de informações, bem como sua integração com aplicações. Por fim, serão discutidas boas práticas de desenvolvimento, organização de interfaces, testes e correção de erros, consolidando os conteúdos que serão trabalhados ao longo da disciplina.
+Como apoio às atividades, serão indicados materiais complementares, incluindo documentações oficiais das tecnologias utilizadas, tutoriais introdutórios e repositórios de exemplos disponibilizados aos estudantes. Também serão apresentados conceitos de controle de versão e colaboração em projetos de software por meio da utilização do Git e do GitHub.
 
-O último encontro será destinado à revisão dos temas e à realização de uma avaliação qualitativa da disciplina, permitindo a coleta de feedback dos estudantes e o incentivo à continuidade da participação nas atividades formativas dos períodos seguintes.
+A avaliação da disciplina será baseada na participação dos estudantes durante os encontros, na realização das atividades propostas e no desenvolvimento de um projeto prático integrador. Como atividade final, os participantes deverão desenvolver e disponibilizar em um repositório GitHub uma aplicação de envio de e-mails utilizando os conceitos e tecnologias trabalhados ao longo do semestre.
+
+Os últimos encontros serão destinados à apresentação e validação dos projetos desenvolvidos, à revisão dos conteúdos abordados e à realização de uma avaliação qualitativa da disciplina, permitindo a coleta de feedback dos estudantes e o incentivo à continuidade da participação nas atividades formativas dos períodos seguintes.
 
 ## Estrutura dos Conteúdos
 
-| Unidade Temática | Conteúdos Principais |
-|------------------|----------------------|
-| Contextualização Profissional | Mercado de trabalho em TI, empresas juniores, áreas de atuação e desenvolvimento profissional |
-| Fundamentos do Desenvolvimento Web | Desenvolvimento de software, internet, arquitetura cliente-servidor, páginas web e ferramentas de desenvolvimento |
-| Controle de Versão | Conceitos de versionamento, repositórios, histórico de alterações e colaboração em equipe |
-| Banco de Dados | Armazenamento de dados, modelagem, manipulação de registros e integração com aplicações |
-| Qualidade de Software | Interfaces, organização de projetos, boas práticas, testes e manutenção |
-| Encerramento e Avaliação | Revisão dos conteúdos, feedback dos estudantes e orientação para continuidade da formação |
+| Unidade Temática | Conteúdos Principais | Tecnologias |
+|------------------|----------------------|-------------|
+| Contextualização Profissional | Mercado de trabalho em TI, empresas juniores, áreas de atuação e desenvolvimento profissional | — |
+| Fundamentos do Desenvolvimento Web | Desenvolvimento de software, internet, arquitetura cliente-servidor, páginas web e ferramentas de desenvolvimento | HTML, CSS e XAMPP |
+| Controle de Versão | Conceitos de versionamento, repositórios, histórico de alterações e colaboração em equipe | Git |
+| Banco de Dados | Armazenamento de dados, modelagem, manipulação de registros e integração com aplicações | PHP e banco de dados local |
+| Qualidade de Software | Interfaces, organização de projetos, boas práticas, testes e manutenção | HTML, CSS e PHP |
+| Encerramento e Avaliação | Revisão dos conteúdos, feedback dos estudantes e orientação para continuidade da formação | — |
 
 # Cronograma da Disciplina
 
@@ -40,10 +42,10 @@ O último encontro será destinado à revisão dos temas e à realização de um
 | Módulo | Período | Temas Principais |
 |----------|----------|----------|
 | Contextualização Profissional | Aulas 01–02 | Mercado de TI, empresas juniores e desenvolvimento de software |
-| Fundamentos da Web | Aulas 03–07 | Internet, cliente-servidor, páginas web, ferramentas e organização de projetos |
+| Fundamentos da Web | Aulas 03–07 | Internet, cliente-servidor, HTML, CSS, ferramentas e organização de projetos |
 | Controle de Versão | Aulas 08–10 | Git, versionamento e colaboração |
-| Banco de Dados | Aulas 11–14 | Conceitos fundamentais, modelagem e integração |
-| Desenvolvimento e Qualidade | Aulas 15–19 | Interfaces, boas práticas, testes, revisão e avaliação da disciplina |
+| Banco de Dados | Aulas 11–14 | Conceitos fundamentais, modelagem, PHP e integração com aplicações |
+| Desenvolvimento Prático e Avaliação | Aulas 15–19 | Interfaces web, atividade integradora, testes, revisão e avaliação da disciplina |
 
 ---
 
@@ -65,10 +67,10 @@ O último encontro será destinado à revisão dos temas e à realização de um
 | 12 | 20/05 | Modelagem de Dados | Entidades, atributos e relacionamentos |
 | 13 | 27/05 | Manipulação de Dados | Consultas e alterações de registros |
 | 14 | 03/06 | Integração com Banco de Dados | Comunicação entre sistemas e dados |
-| 15 | 10/06 | Interfaces para Usuários | Estrutura e navegação de interfaces |
-| 16 | 17/06 | Boas Práticas de Desenvolvimento | Organização, legibilidade e documentação |
-| 17 | 24/06 | Testes e Correção de Erros | Validação e correção de funcionalidades |
-| 18 | 01/07 | Revisão dos Conteúdos | Revisão geral dos tópicos que serão abordados |
+| 15 | 10/06 | Interfaces para Usuários | Estrutura e navegação de interfaces utilizando HTML e CSS |
+| 16 | 17/06 | Desenvolvimento da Atividade Integrada | Construção e finalização da atividade prática utilizando os conceitos trabalhados ao longo da disciplina |
+| 17 | 24/06 | Entrega e Validação da Atividade | Apresentação, testes e avaliação da atividade desenvolvida pelos estudantes |
+| 18 | 01/07 | Revisão dos Conteúdos | Revisão geral dos tópicos abordados durante a disciplina |
 | 19 | 10/07 | Avaliação e Encerramento | Feedback dos estudantes e incentivo à continuidade do ciclo formativo |
 
 ---
@@ -79,8 +81,8 @@ O último encontro será destinado à revisão dos temas e à realização de um
 |-----------|--------|--------|-------|--------|--------|
 | Mercado de TI | Desenvolvimento de Software | Estrutura de Páginas Web | Trabalho Colaborativo | Integração com Banco de Dados | Revisão dos Conteúdos |
 | | Introdução à Internet | Ferramentas de Desenvolvimento | Introdução a Banco de Dados | Interfaces para Usuários | Avaliação e Encerramento |
-| | Cliente e Servidor | Organização de Projetos | Modelagem de Dados | Boas Práticas de Desenvolvimento | |
-| | | Introdução ao Git | Manipulação de Dados | Testes e Correção de Erros | |
+| | Cliente e Servidor | Organização de Projetos | Modelagem de Dados | Desenvolvimento da Atividade Integrada | |
+| | | Introdução ao Git | Manipulação de Dados | Entrega e Validação da Atividade | |
 | | | Operações Básicas com Git | | | |
 
 
