@@ -1,16 +1,16 @@
 # Planejamento da Disciplina
 
-A disciplina será organizada em encontros semanais de 50 minutos, distribuídos ao longo do semestre letivo. O planejamento adotará uma abordagem progressiva, iniciando pela contextualização da área de computação e pela apresentação das possibilidades de atuação profissional, com destaque para a importância da formação prática e do desenvolvimento de competências voltadas ao mercado de trabalho.
+A disciplina foi organizada em encontros semanais de 50 minutos, distribuídos ao longo do semestre letivo. O planejamento adotou uma abordagem progressiva, iniciando pela contextualização da área de computação e pela apresentação das possibilidades de atuação profissional, com destaque para a importância da formação prática e do desenvolvimento de competências voltadas ao mercado de trabalho.
 
-Na sequência, serão abordados conceitos introdutórios relacionados ao desenvolvimento de software e ao funcionamento da internet, incluindo aspectos fundamentais das aplicações web, da comunicação entre clientes e servidores e das ferramentas utilizadas durante o processo de desenvolvimento. As atividades práticas utilizarão HTML e CSS para construção de interfaces, PHP para implementação de funcionalidades do lado do servidor e XAMPP para configuração do ambiente local de execução das aplicações.
+Na sequência, foram abordados conceitos introdutórios relacionados ao desenvolvimento de software e ao funcionamento da internet, incluindo aspectos fundamentais das aplicações web, da comunicação entre clientes e servidores e das ferramentas utilizadas durante o processo de desenvolvimento. As atividades práticas utilizaram HTML e CSS para construção de interfaces, PHP para implementação de funcionalidades do lado do servidor e XAMPP para configuração do ambiente local de execução das aplicações.
 
-Os encontros serão conduzidos de forma expositiva e demonstrativa, com compartilhamento da tela do ministrante durante o desenvolvimento das atividades. Os exemplos serão construídos em tempo real, permitindo que os estudantes acompanhem o processo de implementação e posteriormente reproduzam os procedimentos de forma autônoma. Ao longo do semestre, serão propostos exercícios práticos para fixação dos conteúdos e incentivo à experimentação das tecnologias apresentadas em aula.
+Os encontros foram conduzidos de forma expositiva e demonstrativa, com compartilhamento da tela do ministrante durante o desenvolvimento das atividades. Os exemplos foram construídos em tempo real, permitindo que os estudantes acompanhassem o processo de implementação e posteriormente reproduzissem os procedimentos de forma autônoma. Ao longo do semestre, foram propostos exercícios práticos para fixação dos conteúdos e incentivo à experimentação das tecnologias apresentadas em aula.
 
-Como apoio às atividades, serão indicados materiais complementares, incluindo documentações oficiais das tecnologias utilizadas, tutoriais introdutórios e repositórios de exemplos disponibilizados aos estudantes. Também serão apresentados conceitos de controle de versão e colaboração em projetos de software por meio da utilização do Git e do GitHub.
+Como apoio às atividades, foram indicados materiais complementares, incluindo documentações oficiais das tecnologias utilizadas, tutoriais introdutórios e repositórios de exemplos disponibilizados aos estudantes. Também foram apresentados conceitos de controle de versão e colaboração em projetos de software por meio da utilização do Git e do GitHub.
 
-A avaliação da disciplina será baseada na participação dos estudantes durante os encontros, na realização das atividades propostas e no desenvolvimento de um projeto prático integrador. Como atividade final, os participantes deverão desenvolver e disponibilizar em um repositório GitHub uma aplicação de envio de e-mails utilizando os conceitos e tecnologias trabalhados ao longo do semestre.
+A avaliação da disciplina foi baseada na participação dos estudantes durante os encontros, na realização das atividades propostas e no desenvolvimento de um projeto prático integrador. Como atividade final, os participantes desenvolveram e disponibilizaram em um repositório GitHub uma aplicação de envio de e-mails utilizando os conceitos e tecnologias trabalhados ao longo do semestre.
 
-Os últimos encontros serão destinados à apresentação e validação dos projetos desenvolvidos, à revisão dos conteúdos abordados e à realização de uma avaliação qualitativa da disciplina, permitindo a coleta de feedback dos estudantes e o incentivo à continuidade da participação nas atividades formativas dos períodos seguintes.
+Os últimos encontros foram destinados à apresentação e validação dos projetos desenvolvidos, à revisão dos conteúdos abordados e à realização de uma avaliação qualitativa da disciplina, permitindo a coleta de feedback dos estudantes e o incentivo à continuidade da participação nas atividades formativas dos períodos seguintes.
 
 ## Estrutura dos Conteúdos
 
@@ -19,12 +19,12 @@ Os últimos encontros serão destinados à apresentação e validação dos proj
 | Contextualização Profissional | Mercado de trabalho em TI, empresas juniores, áreas de atuação e desenvolvimento profissional | — |
 | Fundamentos do Desenvolvimento Web | Desenvolvimento de software, internet, arquitetura cliente-servidor, páginas web e ferramentas de desenvolvimento | HTML, CSS e XAMPP |
 | Controle de Versão | Conceitos de versionamento, repositórios, histórico de alterações e colaboração em equipe | Git |
-| Banco de Dados | Armazenamento de dados, modelagem, manipulação de registros e integração com aplicações | PHP e banco de dados local |
+| Banco de Dados | Armazenamento de dados, modelagem, manipulação de registros e integração com aplicações | PHP e banco de dados local (MySQL ou PostgreSQL) |
 | Qualidade de Software | Interfaces, organização de projetos, boas práticas, testes e manutenção | HTML, CSS e PHP |
 | Encerramento e Avaliação | Revisão dos conteúdos, feedback dos estudantes e orientação para continuidade da formação | — |
 
 
-## Critérios de Avaliação — 2025.2
+## Critérios de Avaliação — 2025.1
 
 | Pontuação | Critério |
 |-----------|----------|
@@ -112,6 +112,6 @@ Esses recursos serão indicados ao longo das aulas e utilizados como base para a
 
 ## Projeto Final — Aplicação de Envio de E-mails
 
-Continuação e especificação prática das Aulas 16–17. Desenvolver uma aplicação web simples para envio de e-mails com as tecnologias vistas em aula (HTML/CSS, PHP, MySQL, XAMPP). Entregáveis mínimos: `index.php`, `send.php`, script SQL para a tabela `envios`, `admin.php` e `README.md` com instruções. Critérios principais: funcionamento do envio/registro, qualidade do código, documentação e histórico de commits. Se envio SMTP não for possível em local, aceitar registro com `status_envio='teste'` e documentação justificando a limitação.
+Continuação e especificação prática das Aulas 16–17. Desenvolver uma aplicação web simples para envio de e-mails com as tecnologias vistas em aula (HTML/CSS, PHP, banco de dados local, XAMPP). Entregáveis mínimos: `index.php`, `send.php`, script SQL para a tabela `envios`, `admin.php` e `README.md` com instruções. Critérios principais: funcionamento do envio/registro, qualidade do código, documentação e histórico de commits. Se envio SMTP não for possível em local, aceitar registro com `status_envio='teste'` e documentação justificando a limitação.
 
 

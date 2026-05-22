@@ -1,12 +1,12 @@
 # Avaliação de Impacto da UCE: Desenvolvimento de Software e Prática Extensionista
 
-> Você está sendo convidado(a) a participar voluntariamente desta pesquisa acadêmica conduzida no âmbito da instituição de ensino, cujo objetivo é analisar os impactos pedagógicos, técnicos e sociais da Unidade Curricular de Extensão (UCE) da empresa júnior, vivenciada por você.
+> Você foi convidado(a) a participar voluntariamente desta pesquisa acadêmica conduzida no âmbito da instituição de ensino, cujo objetivo foi analisar os impactos pedagógicos, técnicos e sociais da Unidade Curricular de Extensão (UCE) da empresa júnior, vivenciada por você.
 
 **Proteção de Dados e Anonimato**
 
-Em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018) e com as diretrizes éticas de pesquisa, informamos que seu anonimato está garantido. Não serão coletados dados pessoais identificáveis (nome, e-mail, matrícula ou CPF). Os dados serão usados apenas para fins acadêmicos e estatísticos; respostas abertas com menção a nomes ou situações específicas serão desidentificadas.
+Em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018) e com as diretrizes éticas de pesquisa, informamos que seu anonimato foi garantido. Não foram coletados dados pessoais identificáveis (nome, e-mail, matrícula ou CPF). Os dados foram usados apenas para fins acadêmicos e estatísticos; respostas abertas com menção a nomes ou situações específicas foram desidentificadas.
 
-> Ao prosseguir e enviar este formulário, você declara estar ciente e concordar com o uso dos dados para os fins descritos acima. 💜🔱💙
+> Ao prosseguir e enviar este formulário, você declarou estar ciente e concordou com o uso dos dados para os fins descritos acima.
 
 ---
 
@@ -260,4 +260,4 @@ Em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018) e c
 
 **Obrigado por participar!**
 
-> Dados coletados de forma anônima e usados para fins acadêmicos. Se quiser acompanhar os resultados, deixe um e-mail de contato opcional no repositório (não é obrigatório nem necessário para participar).
+> Dados foram coletados de forma anônima e usados para fins acadêmicos. Se quis acompanhar os resultados, deixou um e-mail de contato opcional no repositório (não era obrigatório nem necessário para participar).
