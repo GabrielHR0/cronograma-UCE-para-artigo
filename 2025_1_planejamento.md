@@ -28,8 +28,8 @@ Os últimos encontros foram destinados à apresentação e validação dos proje
 
 | Pontuação | Critério |
 |-----------|----------|
-| 7,0 (mínimo de aprovação) | Média ponderada mínima 7,0 composta por: Participação nas aulas (20%), Entrega das atividades práticas (30%), Projeto integrador e apresentação (50%). Entregas incompletas podem impedir a aprovação mesmo com média >= 7,0. |
-| 10,0 (pontuação máxima) | Entrega de todas as atividades dentro dos requisitos, participação ativa, projeto integrador funcional com documentação e apresentação clara; excelência na execução das práticas e nos critérios de avaliação específicos. |
+| 7,0 (mínimo de aprovação) | Média ponderada mínima 7,0 composta por: Participação nas aulas (20%), Entrega das atividades práticas (30%), Projeto integrador e apresentação (50%).|
+| 10,0 (pontuação máxima) | Entrega de todas as atividades dentro dos requisitos, participação ativa, projeto integrador funcional e apresentação clara. |
 
 ## Referências e Documentação
 
